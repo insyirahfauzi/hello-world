@@ -1,2 +1,6 @@
 # hello-world
-Just simple rspository
+Just simple respository
+
+Hi Human!
+
+Such a great day to start my work heh? LOL
